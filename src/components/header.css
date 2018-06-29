@@ -1,0 +1,46 @@
+.wrapper {
+    max-width: 600px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+header li {
+    display: inline;
+}
+
+header a {
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.form-row {
+    padding: 10px 0;
+}
+
+fieldset {
+    border: 1px solid #999;
+    margin: 15px 0;
+}
+
+fieldset label {
+    min-width: 100px;
+    display: inline-block;
+}
+button{
+    background: green;
+    color: #fff;
+    font-size: 14px;
+    padding: 8px;
+    border: 0;
+    margin-left: 100px;
+}
+input{
+    width: 180px;
+    height: 25px;
+
+}
